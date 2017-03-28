@@ -1,0 +1,113 @@
+﻿  stdafx.cpp
+f:\game_portfolio\1609_clashofclans\winmain\image.h(180): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  winMain.cpp
+  utils.cpp
+f:\game_portfolio\1609_clashofclans\winmain\utils.cpp(195): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\utils.cpp(196): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\utils.cpp(197): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\utils.cpp(198): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  units.cpp
+f:\game_portfolio\1609_clashofclans\winmain\units.cpp(59): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+f:\game_portfolio\1609_clashofclans\winmain\units.cpp(97): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\units.cpp(112): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\units.cpp(113): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\units.cpp(142): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\units.cpp(158): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\units.cpp(154): warning C4101: 'frame' :참조되지 않은 지역 변수입니다.
+  unitManager.cpp
+f:\game_portfolio\1609_clashofclans\winmain\unitmanager.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\unitmanager.cpp(55): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\unitmanager.cpp(139): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\unitmanager.cpp(141): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\unitmanager.cpp(177): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\unitmanager.cpp(218): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\unitmanager.cpp(289): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\unitmanager.cpp(463): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  txtData.cpp
+f:\game_portfolio\1609_clashofclans\winmain\txtdata.cpp(50): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\txtdata.cpp(53): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  timer.cpp
+  timeManager.cpp
+f:\game_portfolio\1609_clashofclans\winmain\timemanager.cpp(41): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  TileMapSetting.cpp
+  stageMake.cpp
+f:\game_portfolio\1609_clashofclans\winmain\stagemake.cpp(87): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\stagemake.cpp(115): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\stagemake.cpp(193): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\stagemake.cpp(228): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\stagemake.cpp(286): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\stagemake.cpp(301): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\stagemake.cpp(316): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\stagemake.cpp(359): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  soundManager.cpp
+  selectPlayScene.cpp
+  sceneManager.cpp
+  progressBar.cpp
+f:\game_portfolio\1609_clashofclans\winmain\progressbar.cpp(21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\progressbar.cpp(22): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\progressbar.cpp(24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\progressbar.cpp(50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playScene.cpp
+f:\game_portfolio\1609_clashofclans\winmain\playscene.cpp(163): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\playscene.cpp(168): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\playscene.cpp(191): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  mapMakeScene.cpp
+f:\game_portfolio\1609_clashofclans\winmain\mapmakescene.cpp(49): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mapmakescene.cpp(103): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+f:\game_portfolio\1609_clashofclans\winmain\mapmakescene.cpp(397): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  mainScene.cpp
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(16): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(134): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(156): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(157): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(220): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(249): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(284): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(285): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(191): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(191): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(331): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(432): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(440): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(508): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(512): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(758): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\mainscene.cpp(789): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  keyManager.cpp
+  imageManager.cpp
+  image.cpp
+f:\game_portfolio\1609_clashofclans\winmain\image.cpp(166): warning C4010: 한 줄로 된 주석에 줄 연속 문자가 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\image.cpp(167): warning C4010: 한 줄로 된 주석에 줄 연속 문자가 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\image.cpp(424): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\image.cpp(437): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameStudy.cpp
+  코드를 생성하고 있습니다...
+f:\game_portfolio\1609_clashofclans\winmain\txtdata.cpp(56): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\utils.cpp(187): warning C4715: 'MY_UTIL::isCollision': 모든 제어 경로에서 값을 반환하지는 않습니다.
+f:\game_portfolio\1609_clashofclans\winmain\utils.cpp(220): warning C4715: 'MY_UTIL::isCollision': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  gameNode.cpp
+f:\game_portfolio\1609_clashofclans\winmain\gamenode.cpp(84): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+f:\game_portfolio\1609_clashofclans\winmain\gamenode.cpp(83): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  effectManager.cpp
+  effect.cpp
+  database.cpp
+  cocDB.cpp
+f:\game_portfolio\1609_clashofclans\winmain\cocdb.cpp(62): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\cocdb.cpp(110): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\cocdb.cpp(111): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\cocdb.cpp(112): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\cocdb.cpp(113): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\cocdb.cpp(114): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  button.cpp
+f:\game_portfolio\1609_clashofclans\winmain\button.cpp(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\button.cpp(23): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\button.cpp(31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\button.cpp(44): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\button.cpp(45): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\game_portfolio\1609_clashofclans\winmain\button.cpp(53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  animation.cpp
+  actionManager.cpp
+  action.cpp
+  코드를 생성하고 있습니다...
+  winMain.vcxproj -> F:\GAME_PORTFOLIO\1609_ClashOfClans\Debug\winMain.exe
